@@ -24,10 +24,10 @@
 
 #### Images of the websites
 #### Home Page :
-![Home page](/BookHub/src/images/Home-page.png)
+![Home page](/src/images/Home-page.png)
 #### About Page :
-![about page](/BookHub/src/images/About-page.png)
+![about page](/src/images/About-page.png)
 #### Data Displaying :
-![ Data Displaying page](/BookHub/src/images/Data-Displaying.png)
+![ Data Displaying page](/src/images/Data-Displaying.png)
 
 #### Thank you.
